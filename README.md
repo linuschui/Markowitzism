@@ -1,4 +1,4 @@
-# 📈 Markowitzism
+# Markowhiffz
 
 A Python-based backtesting framework implementing Markowitz mean-variance portfolio optimization for systematic paper trading.
 
